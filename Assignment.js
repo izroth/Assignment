@@ -55,6 +55,8 @@ const getFlightPrice = async (req,res) => {
 module.exports = {
     getFlightPrice
 }
+//getFlightPrice()
+//use it as an api or as a function
 
 
 
